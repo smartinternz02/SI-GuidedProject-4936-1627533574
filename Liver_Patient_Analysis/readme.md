@@ -1,4 +1,5 @@
-Flask 
+## Flask # Liver_Patient_Analysis using IBM cloud 
+ 
 First open jupyter notebook
 Then open Liver_Patient_Analysis.ipynb
 Go to Kernel and click on restart and run all
@@ -10,7 +11,7 @@ You will be redirected to a webpage
 Provide the Patient details
 Prediction will be shown. 
 
-IBM Cloud
+## IBM Cloud
 Go to Model on IBM Cloud folder
 Open the deployment.py file using IDE(vscode, spyder,etc)
 In line 11, you can put the details of the patient
